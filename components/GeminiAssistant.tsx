@@ -1,7 +1,7 @@
 
 import React, { useState, useRef, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Bot, Send, X, MessageSquare, Sparkles } from 'lucide-react';
+import { Bot, Send, X, Sparkles } from 'lucide-react';
 import { GoogleGenAI } from '@google/genai';
 
 const GeminiAssistant: React.FC = () => {

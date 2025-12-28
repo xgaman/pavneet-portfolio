@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { GraduationCap, Award, MapPin, Calendar } from 'lucide-react';
+import { GraduationCap, MapPin, Calendar } from 'lucide-react';
 
 const About: React.FC = () => {
   return (
